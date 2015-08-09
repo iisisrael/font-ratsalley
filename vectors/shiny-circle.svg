@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="708"
+   height="708"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="shiny-circle.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="-342.48061"
+     inkscape:cy="477.29202"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="876"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-18.04724,-172.18109)">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke-width:2;stroke-miterlimit:4"
+       d="m 189.90625,-76.3125 c -195.5088007,0 -354,158.491199 -354,354 0,195.5088 158.4911993,354 354,354 195.5088,0 354,-158.4912 354,-354 0,-195.508801 -158.4912,-354 -354,-354 z M 11.40625,0 35.25,0 69.65625,69.0625 85.0625,100 108.71875,100 93.3125,69.0625 58.90625,0 82.375,0 l 50,100 147.4375,0 100,0 0,122.96875 c -4.1e-4,68.36802 -23.55797,106.3412 -70.71875,113.9375 l 0,118.46875 50,100 -23.65625,0 -34.59375,-69.46875 -34.59375,-69.5 -28.15625,-56.53125 0,-22.5 -143.125,0 0,-71.4375 166.40625,0 c 31.65147,1.9e-4 47.46842,-15.81676 47.46875,-47.46875 l 0,-47.5 -100,0 -137.375,0 0,284.40625 -71,0 L 0,100 l 61.40625,0 -50,-100 z m 226.6875,407.375 4.5,9.03125 34.59375,69.5 34.5625,69.46875 -23.65625,0 -50,-100 0,-48 z"
+       transform="translate(182.14099,248.49359)"
+       id="path3025"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g3033"
+       style="font-size:486.17141724px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:SL Panzerkardinal;-inkscape-font-specification:SL Panzerkardinal"
+       transform="translate(0,480)" />
+    <g
+       id="g3042"
+       style="font-size:486.17141724px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:SL Panzerkardinal;-inkscape-font-specification:SL Panzerkardinal"
+       transform="translate(715.99999,-77.999997)" />
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/israel/Documents/Rats Alley/ShinySign3.png"
+       id="g3051"
+       style="font-size:486.17141724px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:SL Panzerkardinal;-inkscape-font-specification:SL Panzerkardinal"
+       transform="translate(-1300,-60)" />
+    <g
+       transform="translate(3.0472412,148.24359)"
+       style="font-size:486.17141724px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#008080;fill-opacity:1;stroke:none;font-family:SL Panzerkardinal;-inkscape-font-specification:SL Panzerkardinal"
+       id="g3055"
+       inkscape:export-filename="/home/israel/Documents/Rats Alley/ShinySign4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
