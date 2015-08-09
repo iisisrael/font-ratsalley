@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "58d41683d318565f6498f63a98f97f441f98b1797a9659a10e7de7f13d57e5ec",
-    "current": "58d41683d318565f6498f63a98f97f441f98b1797a9659a10e7de7f13d57e5ec"
+    "previous": "c77f0b218168dae29174cc3b5b40c834a16ab3aa0ec64900f19a207072cfe109",
+    "current": "c77f0b218168dae29174cc3b5b40c834a16ab3aa0ec64900f19a207072cfe109"
   },
   "fonts": [
-    "./fonts/font-ratsalley_58d41683d318565f6498f63a98f97f44.ttf",
-    "./fonts/font-ratsalley_58d41683d318565f6498f63a98f97f44.svg",
-    "./fonts/font-ratsalley_58d41683d318565f6498f63a98f97f44.woff",
-    "./fonts/font-ratsalley_58d41683d318565f6498f63a98f97f44.eot"
+    "./fonts/font-ratsalley.ttf",
+    "./fonts/font-ratsalley.svg",
+    "./fonts/font-ratsalley.woff",
+    "./fonts/font-ratsalley.eot"
   ],
   "glyphs": {
     "shiny": {
@@ -38,7 +38,7 @@
       "templates": "./vectors",
       "vectors": "./vectors"
     },
-    "no_hash": false,
+    "no_hash": true,
     "output": {
       "css": "./css",
       "fonts": "./fonts",
