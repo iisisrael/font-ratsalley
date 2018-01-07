@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "c77f0b218168dae29174cc3b5b40c834a16ab3aa0ec64900f19a207072cfe109",
-    "current": "c77f0b218168dae29174cc3b5b40c834a16ab3aa0ec64900f19a207072cfe109"
+    "previous": "4eb0db722d87026096473baddd3dfc5f88f749bf8f2ab74e496d045e90212d34",
+    "current": "4eb0db722d87026096473baddd3dfc5f88f749bf8f2ab74e496d045e90212d34"
   },
   "fonts": [
     "./fonts/font-ratsalley.ttf",
@@ -10,6 +10,18 @@
     "./fonts/font-ratsalley.eot"
   ],
   "glyphs": {
+    "rats-alley": {
+      "codepoint": 61701,
+      "source": "./vectors/rats-alley.svg"
+    },
+    "rats-alley-circle": {
+      "codepoint": 61702,
+      "source": "./vectors/rats-alley-circle.svg"
+    },
+    "rats-alley-inverse": {
+      "codepoint": 61703,
+      "source": "./vectors/rats-alley-inverse.svg"
+    },
     "shiny": {
       "codepoint": 61696,
       "source": "./vectors/shiny.svg"
