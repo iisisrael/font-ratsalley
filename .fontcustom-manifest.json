@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "4eb0db722d87026096473baddd3dfc5f88f749bf8f2ab74e496d045e90212d34",
-    "current": "4eb0db722d87026096473baddd3dfc5f88f749bf8f2ab74e496d045e90212d34"
+    "previous": "7e54f037b98d1477641bcc1f1029efd85fb825a4761b311d9a1e9ef04c27f315",
+    "current": "7e54f037b98d1477641bcc1f1029efd85fb825a4761b311d9a1e9ef04c27f315"
   },
   "fonts": [
     "./fonts/font-ratsalley.ttf",
@@ -26,13 +26,9 @@
       "codepoint": 61696,
       "source": "./vectors/shiny.svg"
     },
-    "shiny-circle": {
-      "codepoint": 61697,
-      "source": "./vectors/shiny-circle.svg"
-    },
-    "shiny-circle-o": {
-      "codepoint": 61698,
-      "source": "./vectors/shiny-circle-o.svg"
+    "shiny-o": {
+      "codepoint": 61704,
+      "source": "./vectors/shiny-o.svg"
     }
   },
   "options": {

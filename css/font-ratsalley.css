@@ -27,8 +27,7 @@
 .fr-rats-alley-circle:before,
 .fr-rats-alley-inverse:before,
 .fr-shiny:before,
-.fr-shiny-circle:before,
-.fr-shiny-circle-o:before {
+.fr-shiny-o:before {
   display: inline-block;
   font-family: "font-ratsalley";
   font-style: normal;
@@ -47,5 +46,4 @@
 .fr-rats-alley-circle:before { content: "\f106"; }
 .fr-rats-alley-inverse:before { content: "\f107"; }
 .fr-shiny:before { content: "\f100"; }
-.fr-shiny-circle:before { content: "\f101"; }
-.fr-shiny-circle-o:before { content: "\f102"; }
+.fr-shiny-o:before { content: "\f108"; }
